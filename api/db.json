@@ -1,0 +1,56 @@
+{
+  "streams": [
+    {
+      "title": "My Stream",
+      "description": "My Amazing string",
+      "id": 1
+    },
+    {
+      "title": "My Good Stream",
+      "description": "My good stream description",
+      "id": 2
+    },
+    {
+      "title": "hfjdsfhk",
+      "description": "hdsjafhsdjafhldsahfdjkshfkjdsahfkdsha",
+      "id": 3
+    },
+    {
+      "title": "hfjdsfhk",
+      "description": "hdsjafhsdjafhldsahfdjkshfkjdsahfkdsha",
+      "id": 4
+    },
+    {
+      "title": "fdsafds",
+      "description": "fdasfdsafsd",
+      "id": 5
+    },
+    {
+      "title": "fdsafsdaf",
+      "description": "fdsafdsafas",
+      "id": 6
+    },
+    {
+      "title": "fdsafsdaf",
+      "description": "fdsafdsafas",
+      "id": 7
+    },
+    {
+      "title": "My Strrrrrream",
+      "description": "My awesome stream description",
+      "userId": "100120763294407184627",
+      "id": 9
+    },
+    {
+      "title": "fjdsfhksjdhf",
+      "description": "jkfdjklgjdsflkgd",
+      "userId": "100120763294407184627",
+      "id": 11
+    },
+    {
+      "title": "One more Stream1",
+      "description": "There are Description",
+      "id": 13
+    }
+  ]
+}
